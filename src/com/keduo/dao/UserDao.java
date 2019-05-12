@@ -8,7 +8,7 @@ public class UserDao {
 	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
 //hahhahaha
-		
+		//gagaggagaga
 		Test2 test2=new Test2();
 		test2.m();
 
