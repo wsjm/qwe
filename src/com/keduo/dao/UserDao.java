@@ -15,11 +15,11 @@ public class UserDao {
 		System.out.println("1.���ܲ˵�");
 		System.out.println("2.����û�");
 
-		System.out.println("3.ɾ���û�");
+		System.out.println("3嘻嘻嘻爱");
 		System.out.println("4.�޸��û�");
-		System.out.println("5.��ѯ�û�");
-		System.out.println("6.��ѯ�û�");
-		System.out.println("���������ѡ��");
+		System.out.println("5.啦啦啦啦");
+		System.out.println("6.嘎嘎嘎过");
+		System.out.println("哈哈哈哈");
 		int  n=sc.nextInt();
 		switch (n) {
 		case 1:
